@@ -1,7 +1,11 @@
 #include <stdio.h>
 /**
-* main - prints string
-* Return : Always 0 (Success)
+* main - Entry point
+*
+* Return: Always 0 (Success)
+*
+* Description: Main returns string in the printf function
+*
 **/
 int main(void)
 {

@@ -5,6 +5,8 @@
  * main - Entry point
  *
  * Return : Always 1 (Success)
+ *
+ * Description : Main should print out a string
  */
 int main(void)
 {

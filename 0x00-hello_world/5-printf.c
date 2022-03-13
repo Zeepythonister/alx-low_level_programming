@@ -5,7 +5,6 @@
 * Return: Always 0 (Success) otherwise error message
 *
 * Description: Main returns string
-* 
 */
 int main(void)
 {

@@ -2,10 +2,10 @@
 /**
 * main - Entry point
 *
-* Return: Always 0 (Success)
+* Return: Always 0 (Success) otherwise error message
 *
 * Description: Main returns string
-* stderr - anything
+* 
 */
 int main(void)
 {

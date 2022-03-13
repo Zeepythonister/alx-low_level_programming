@@ -2,12 +2,12 @@
 /**
 * main - Entry point
 *
-* Return: Always 0 (Success) otherwise error message
+* Return: 0 on success. Error code otherwise
 *
 * Description: Main returns string
 */
 int main(void)
 {
-	fprintf("stderr, with proper grammer, but the outcome is a piece of art,2\n");
+	printf("with proper grammer, but the outcome is a piece of art,\n");
 	return (0);
 }
